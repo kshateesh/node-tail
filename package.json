@@ -1,0 +1,15 @@
+{
+  "name": "node-tail",
+  "version": "1.0.0",
+  "description": "This is an attempt to implement Unix Tail -f command in node and serve changes to client",
+  "main": "server.js",
+  "scripts": {},
+  "author": "Kshateesh Gupta",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "socket.io": "^2.1.1"
+  },
+  "devDependencies": {}
+}
